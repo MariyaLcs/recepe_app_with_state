@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/recepe_app_with_state/static/css/main.843b4e9f.chunk.css",
-    "main.js": "/recepe_app_with_state/static/js/main.d0265f4e.chunk.js",
-    "main.js.map": "/recepe_app_with_state/static/js/main.d0265f4e.chunk.js.map",
+    "main.js": "/recepe_app_with_state/static/js/main.bce50e97.chunk.js",
+    "main.js.map": "/recepe_app_with_state/static/js/main.bce50e97.chunk.js.map",
     "runtime-main.js": "/recepe_app_with_state/static/js/runtime-main.d6a8e514.js",
     "runtime-main.js.map": "/recepe_app_with_state/static/js/runtime-main.d6a8e514.js.map",
     "static/js/2.a62ee947.chunk.js": "/recepe_app_with_state/static/js/2.a62ee947.chunk.js",
     "static/js/2.a62ee947.chunk.js.map": "/recepe_app_with_state/static/js/2.a62ee947.chunk.js.map",
     "index.html": "/recepe_app_with_state/index.html",
-    "precache-manifest.c650ec7e565a3c504432facbee26fd74.js": "/recepe_app_with_state/precache-manifest.c650ec7e565a3c504432facbee26fd74.js",
+    "precache-manifest.d709039a75a3b009690b37c9df866904.js": "/recepe_app_with_state/precache-manifest.d709039a75a3b009690b37c9df866904.js",
     "service-worker.js": "/recepe_app_with_state/service-worker.js",
     "static/css/main.843b4e9f.chunk.css.map": "/recepe_app_with_state/static/css/main.843b4e9f.chunk.css.map",
     "static/js/2.a62ee947.chunk.js.LICENSE.txt": "/recepe_app_with_state/static/js/2.a62ee947.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d6a8e514.js",
     "static/js/2.a62ee947.chunk.js",
     "static/css/main.843b4e9f.chunk.css",
-    "static/js/main.d0265f4e.chunk.js"
+    "static/js/main.bce50e97.chunk.js"
   ]
 }
